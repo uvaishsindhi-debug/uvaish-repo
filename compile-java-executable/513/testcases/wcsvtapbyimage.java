@@ -29,6 +29,7 @@ public class wcsvtapbyimage {
 		tg.writeToCSV("var_name", var_name, "");
 		tg.writeToCSV("text", "text", "text1");
 		tg.tapByImage("ele_SignInButton1782900326059", 0.65);
+		tg.wait(1);
 		tg.close();
 	}
 }
