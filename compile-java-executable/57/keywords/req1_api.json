@@ -1,0 +1,15 @@
+{
+    "url": "https://jsonplaceholder.typicode.com/comments?",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
+    "headers": [],
+    "h_static": [],
+    "params": [],
+    "p_static": [],
+    "key_path": "",
+    "save_full_response": true,
+    "key_type": "json",
+    "resp_type": "json",
+    "timeout": 30
+}
