@@ -36,7 +36,7 @@ public class code_1 {
 		tg.click("ele_EditText1776156834456", 1);
 		tg.type("ele_EditText1776156834456", "testgrid@testgrid.io", true);
 		tg.click("ele_MaleRadioButton1776157210879", 1);
-		tg.wait("ele_EditText1776156918136", ComparisonType.IS_CLICKABLE);
+		tg.wait("ele_EditText1776156918136", ComparisonType.IS_CLICKABLE, 123);
 		tg_int var_phnum = 1234567890;
 		tg.click("ele_EditText1776156918136", 1);
 		tg.type("ele_EditText1776156918136", var_phnum, true);

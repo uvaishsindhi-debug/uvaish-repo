@@ -1810,6 +1810,26 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.5.24/s/ele-imgs/513/26206.png"
+        },
+        {
+            "testcase_element": "ele_googlelogo",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Web_id",
+                    "locators_val": "1TGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 223,
+                    "d_w": 524,
+                    "d_x": 704,
+                    "d_y": 109,
+                    "suggest_name": "googlelogo"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "web_id",
+            "image_url": "http://192.168.5.24/s/ele-imgs/513/26851.png"
         }
     ]
 }

@@ -28,11 +28,11 @@ public class tdpjson {
 		tg_String var_email = "Null";
 		while(tg.verify.isLessThanOrEqualTo(var_count, 1)){
 		var_fname = tg.saveToVariable(var_fname, var_Data, "$.records["+var_count+"].FirstName");
-		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE, 123);
 		tg.type("ele_EnteremailaddressEditText1782830312862", var_fname, false);
 		tg.wait(2);
 		var_email = tg.saveToVariable(var_email, var_Data, "$.records["+var_count+"].LastName");
-		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE, 123);
 		tg.type("ele_EnteremailaddressEditText1782830312862", var_email, false);
 		tg.wait(1);
 		var_count = tg.increments(var_count, 1);

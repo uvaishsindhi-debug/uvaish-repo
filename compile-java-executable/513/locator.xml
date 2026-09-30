@@ -260,4 +260,8 @@
     <element type="id">nav-logo-sprites</element>
     <element type="image">http://192.168.5.24/s/ele-imgs/513/26206.png</element>
   </locator>
+  <locator name="ele_googlelogo">
+    <element type="web_id">1TGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/513/26851.png</element>
+  </locator>
 </locators>

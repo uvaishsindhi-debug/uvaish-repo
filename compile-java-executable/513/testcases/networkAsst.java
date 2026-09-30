@@ -21,15 +21,15 @@ public class networkasst {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void networkasst() {
 		tg.openDevice();
-		tg.wait("ele_OKButton1782897845098", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_OKButton1782897845098", ComparisonType.IS_VISIBLE, 123);
 		tg.click("ele_OKButton1782897845098", 1);
-		tg.wait("ele_mainmenurefreshTextView1782897866283", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_mainmenurefreshTextView1782897866283", ComparisonType.IS_VISIBLE, 123);
 		tg.click("ele_mainmenurefreshTextView1782897866283", 1);
-		// [DISABLED] tg.wait("ele_mainmenudetectlocationTextView1782897852588", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.wait("ele_mainmenudetectlocationTextView1782897852588", ComparisonType.IS_VISIBLE, 123);
 		// [DISABLED] tg.click("ele_mainmenudetectlocationTextView1782897852588", 1);
-		// [DISABLED] tg.wait("ele_WhileusingtheappButton1782897856747", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.wait("ele_WhileusingtheappButton1782897856747", ComparisonType.IS_VISIBLE, 123);
 		// [DISABLED] tg.click("ele_WhileusingtheappButton1782897856747", 1);
-		// [DISABLED] tg.wait("ele_mainmenurefreshTextView1782897866283", ComparisonType.IS_VISIBLE);
+		// [DISABLED] tg.wait("ele_mainmenurefreshTextView1782897866283", ComparisonType.IS_VISIBLE, 123);
 		// [DISABLED] tg.click("ele_mainmenurefreshTextView1782897866283", 1);
 		tg_Double var_networkdata = .0;
 		var_networkdata = tg.saveToVariable(51.51, var_networkdata);

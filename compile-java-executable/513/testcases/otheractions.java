@@ -22,11 +22,11 @@ public class otheractions {
 	public void otheractions() {
 		tg.openDevice();
 		tg.wait(2);
-		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE, 123);
 		tg.typeEncrypted("ele_EnteremailaddressEditText1782830312862", "4LlEC0F1NHwTDpLoS++pAA==:MTIzNDU2Nzg5MTAxMTEyMQ==", false);
 		tg.wait(1);
 		// [DISABLED] tg.click("ele_DoneButton", 1);
-		tg.wait("ele_textinputendiconImageButton1782830338531", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_textinputendiconImageButton1782830338531", ComparisonType.IS_VISIBLE, 123);
 		tg.click("ele_textinputendiconImageButton1782830338531", 1);
 		tg.wait(5);
 		START_CUSTOM_SCRIPT;

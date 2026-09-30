@@ -24,7 +24,7 @@ public class conditionaltc {
 		tg.wait(2);
 		tg.click("ele_SignUpTextView1782900340341");
 		tg.wait(2);
-		tg.wait("ele_EnterfirstnameEditText1782900364278", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_EnterfirstnameEditText1782900364278", ComparisonType.IS_VISIBLE, 123);
 		tg.type("ele_EnterfirstnameEditText1782900364278", "40", false);
 		tg.wait(1);
 		tg.type("ele_EnteremailaddressEditText1782830312862", "Dwayne", false);
@@ -36,11 +36,11 @@ public class conditionaltc {
 		// [DISABLED] tg.swipe(Direction.DOWN);
 		// [DISABLED] tg.swipe(Direction.DOWN);
 		tg.wait(2);
-		tg.wait("ele_EnterfirstnameEditText1782900364278", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_EnterfirstnameEditText1782900364278", ComparisonType.IS_VISIBLE, 123);
 		tg.type("ele_EnterfirstnameEditText1782900364278", "10", false);
 		tg.wait(1);
 		// [DISABLED] tg.click("ele_DoneButton", 1);
-		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_EnteremailaddressEditText1782830312862", ComparisonType.IS_VISIBLE, 123);
 		tg.type("ele_EnteremailaddressEditText1782830312862", "Johnson", false);
 		tg.wait(1);
 		}
