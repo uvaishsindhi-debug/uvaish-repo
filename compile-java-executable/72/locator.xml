@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_FormfullName">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='field.fullName'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@index='0'])[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/674.png</element>
+  </locator>
+  <locator name="ele_Formfieldemail">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='field.email'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@index='0'])[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/675.png</element>
+  </locator>
+  <locator name="ele_ReturnButton">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Return'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@label='return'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@index='32'])[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/676.png</element>
+  </locator>
+  <locator name="ele_LocationButton1781773745657">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Location'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton[3]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton[3]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/677.png</element>
+  </locator>
+  <locator name="ele_buttoncurrentLocationButton1781773757707">
+    <element type="xpath">(//XCUIElementTypeButton[@name='button.currentLocation'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/678.png</element>
+  </locator>
+  <locator name="ele_AllowWhileUsingAppButton1781773778163">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Allow While Using App'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[12]/XCUIElementTypeOther[3]/XCUIElementTypeAlert/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[12]/XCUIElementTypeOther[3]/XCUIElementTypeAlert/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/679.png</element>
+  </locator>
+  <locator name="ele_FormfirstName">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='field.firstName'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[3]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@index='0'])[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/680.png</element>
+  </locator>
+  <locator name="ele_FormlastName">
+    <element type="xpath">(//XCUIElementTypeTextField[@name='field.lastName'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[4]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="xpath">(//XCUIElementTypeTextField[@index='0'])[3]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/681.png</element>
+  </locator>
+  <locator name="ele_DoneButton">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Done'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@label='done'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[4]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[2]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@index='30'])[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/682.png</element>
+  </locator>
+  <locator name="ele_Submittext">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='Submit'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@label='Submit'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[10]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton/XCUIElementTypeStaticText</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@index='1'])[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/683.png</element>
+  </locator>
+  <locator name="ele_ClearDataButton">
+    <element type="xpath">(//XCUIElementTypeButton[@name='section.clear'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@label='Clear'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">(//XCUIElementTypeButton[@index='1'])[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/684.png</element>
+  </locator>
+  <locator name="ele_Formfieldpassword">
+    <element type="xpath">(//XCUIElementTypeSecureTextField[@name='field.password'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[8]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSecureTextField</element>
+    <element type="xpath">(//XCUIElementTypeSecureTextField[@index='0'])[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/685.png</element>
+  </locator>
+  <locator name="ele_ShowPass">
+    <element type="xpath">(//XCUIElementTypeButton[@name='button.togglePassword'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@label='Show'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[8]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">(//XCUIElementTypeButton[@index='1'])[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/686.png</element>
+  </locator>
+  <locator name="ele_ControlsButton1781785633137">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Controls'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton[2]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/687.png</element>
+  </locator>
+  <locator name="ele_ScreensButton1781785646867">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Screens'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton[5]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton[5]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/688.png</element>
+  </locator>
+  <locator name="ele_OpenScrollScreenStaticText1781785671348">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='Open Scroll Screen'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton/XCUIElementTypeStaticText</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton/XCUIElementTypeStaticText</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/689.png</element>
+  </locator>
+  <locator name="ele_buttonscrollToBottomElement">
+    <element type="xpath">(//XCUIElementTypeButton[@name='button.scrollToBottom'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@label='Scroll to Bottom Element'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">(//XCUIElementTypeButton[@index='0'])[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/690.png</element>
+  </locator>
+  <locator name="ele_APIButton1781853971839">
+    <element type="xpath">(//XCUIElementTypeButton[@name='API'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton[4]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton[4]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/691.png</element>
+  </locator>
+  <locator name="ele_FormTab">
+    <element type="xpath">(//XCUIElementTypeButton[@name='Form'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeButton[@label='Form'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTabBar/XCUIElementTypeButton</element>
+    <element type="xpath">(//XCUIElementTypeButton[@index='0'])[3]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/692.png</element>
+  </locator>
+  <locator name="ele_navscrollButton1782114352564">
+    <element type="xpath">(//XCUIElementTypeButton[@name='nav.scroll'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[5]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/693.png</element>
+  </locator>
+  <locator name="ele_horizontalscrollview">
+    <element type="xpath">//XCUIElementTypeScrollView[@name='scroll.horizontal']</element>
+  </locator>
+  <locator name="ele_Card7">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='hcard.7'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@label='Card 7'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeStaticText[7]</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@index='6'])[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/695.png</element>
+  </locator>
+  <locator name="ele_Card1">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='hcard.1'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@label='Card 1'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeStaticText</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@index='0'])[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/696.png</element>
+  </locator>
+  <locator name="ele_Page1">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='page.1'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@label='Page 1'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeScrollView[2]/XCUIElementTypeOther/XCUIElementTypeStaticText</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@index='0'])[3]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/697.png</element>
+  </locator>
+  <locator name="ele_SnappingCarouselTitle">
+    <element type="xpath">(//XCUIElementTypeStaticText[@name='3. Snapping Carousel (paged scroll)'])[1]</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@label='3. Snapping Carousel (paged scroll)'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeStaticText[3]</element>
+    <element type="xpath">(//XCUIElementTypeStaticText[@index='5'])[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/72/698.png</element>
+  </locator>
+</locators>
