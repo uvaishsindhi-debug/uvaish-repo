@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "59",
-    "user_id": 9,
+    "version_id": 59,
+    "user_id": 10,
     "abo_version": {
         "version_id": "59",
         "app_id": "33",
@@ -16,8 +16,8 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
-        "git_restore_id": "0"
+        "is_git_enabled": "1",
+        "git_restore_id": "4"
     },
     "app_id": "33",
     "platform": "2",
@@ -91,15 +91,7 @@
                     "created_at": "2026-10-06 01:20:04",
                     "qtest_skip_sync": "0",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "12",
-                            "version_module_id": "74",
-                            "name": "tc",
-                            "tc_id": "447",
-                            "user_id": "9"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/33/59/74/testcases/tc_1.java",
                     "vault_paths": []
@@ -199,44 +191,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "335",
-                    "user_id": "9",
-                    "app_id": "33",
-                    "version_id": "59",
-                    "version_module_id": "74",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "336",
-                    "user_id": "9",
-                    "app_id": "33",
-                    "version_id": "59",
-                    "version_module_id": "74",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "337",
-                    "user_id": "9",
-                    "app_id": "33",
-                    "version_id": "59",
-                    "version_module_id": "74",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "343",
-                    "user_id": "9",
-                    "app_id": "33",
-                    "version_id": "59",
-                    "version_module_id": "74",
-                    "description": "",
-                    "action_process": "add_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
